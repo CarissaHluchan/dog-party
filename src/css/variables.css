@@ -1,5 +1,9 @@
 :root {
   --main-accent-color: #3F8DA8;
   --secondary-accent-color: #92E0E5;
+  --third-accent-color: #FAFAFA;
+  --header-line-color: #7B7E7E;
+  --p-text-color: #000000;
+  --main-border: 7px solid var(--main-accent-color);
 }
 
