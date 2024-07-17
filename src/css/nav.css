@@ -8,6 +8,10 @@ nav {
   align-items: center;
 }
 
+.aNav {
+  margin-right: 45px;
+}
+
 .dog-icon {
   width: 60px;
   margin-left: 45px;
