@@ -6,7 +6,7 @@
   "homepage": "http://CarissaHluchan.github.io/dog-party",
   "scripts": {
     "start": "webpack server",
-    "build": "webpack"
+    "build": "webpack",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
