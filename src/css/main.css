@@ -1,0 +1,34 @@
+main {
+  background: url('../../dist/images/park.jpg') center/cover;
+  background-size: cover;
+  background-position: top;
+  width: 100%;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 50px;
+  margin-top: 75px;
+}
+
+main img {
+  border: var(--main-border);
+  border-radius: 50%;
+  width: 465px;
+}
+
+main button {
+  width: 235px;
+  height: 62px;
+  margin-top: 25px;
+  border: var(--main-border);
+  color: var(--main-accent-color);
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 28px;
+}

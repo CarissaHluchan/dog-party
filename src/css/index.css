@@ -1,15 +1,6 @@
 @import 'variables';
-
-body {
-  background: url('../../dist/images/park.jpg') center/cover;
-  height: 100vh;
-  width: 100%;
-}
-
-nav {
-  background-color: var(--secondary-accent-color);
-}
-
-.dog-icon {
-  width: 50px;
-}
+@import 'nav';
+@import 'main';
+@import 'body';
+@import 'section';
+@import 'footer';

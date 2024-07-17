@@ -1,0 +1,21 @@
+nav {
+  background-color: var(--secondary-accent-color);
+  height: 83px;
+  border-top: solid 3px var(--header-line-color);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dog-icon {
+  width: 60px;
+  margin-left: 45px;
+}
+
+nav a {
+  color: var(--third-accent-color);
+  font-weight: 600;
+  font-size: 30px;
+  margin: 25px;
+}
