@@ -4,10 +4,6 @@
   "description": "Dog Party starter kit using webpack.",
   "main": "index.js",
   "homepage": "http://CarissaHluchan.github.io/dog-party",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CarissaHluchan/dog-party.git"
-  },
   "scripts": {
     "start": "webpack server",
     "build": "webpack"
@@ -22,6 +18,10 @@
     "html-loader": "^5.0.0",
     "style-loader": "^3.3.4",
     "webpack-dev-server": "^4.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarissaHluchan/dog-party.git"
   },
   "devDependencies": {
     "html-webpack-plugin": "^5.6.0",
